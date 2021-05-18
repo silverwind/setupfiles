@@ -1,1 +1,3 @@
-import {inspect} from "utils";
+import {inspect} from "util";
+
+console.log("setup");
