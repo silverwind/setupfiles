@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "jest": "27.0.0-next.9"
+  }
+}
